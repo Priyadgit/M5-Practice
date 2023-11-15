@@ -7,5 +7,10 @@ public class SampleGit {
 		System.out.println("Hi");
 
 	}
+	
+	public void sample()
+	{
+		System.out.println("Hello");
+	}
 
 }
